@@ -3,7 +3,7 @@ This is the Syllabus for Siraj Raval's Reinforcement Learning course "AI for Vid
 
 ### Each week has listed first a shorter, introductory video (released on Friday) and a longer, in-depth video (released on Wednesday) 
 
-## Week 1 [YouTube](https://youtu.be/i_McNBDP9Qs)
+## [Week 1](https://youtu.be/i_McNBDP9Qs)
 - Markov Decision Processes
 - Policy evaluation, iteration, value iteration
 
